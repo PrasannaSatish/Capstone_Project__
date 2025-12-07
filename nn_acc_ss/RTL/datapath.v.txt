@@ -3,7 +3,7 @@
 
 module axis_if #
 (
-    parameter DATA_WIDTH = 32
+    parameter DATA_WIDTH = 128
 )
 (
     input  wire                     clk,
