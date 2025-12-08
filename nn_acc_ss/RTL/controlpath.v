@@ -5,7 +5,7 @@
 module apb3_if #
 (
     parameter ADDR_WIDTH = 32,
-    parameter DATA_WIDTH = 256
+    parameter DATA_WIDTH = 32
 )
 (
     //  clock, reset for control
